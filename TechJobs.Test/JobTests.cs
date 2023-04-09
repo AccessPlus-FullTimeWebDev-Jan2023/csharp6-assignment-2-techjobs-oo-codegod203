@@ -4,6 +4,9 @@ namespace TechJobs.Tests
 	[TestClass]
 	public class JobTests
 	{
+        Job job1 = new Job
+        Job job2 = new Job
+
         //Testing Objects
         //initalize your testing objects here
 
